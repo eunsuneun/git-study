@@ -1,3 +1,4 @@
 new1
 edited in remote
 remote
+local
