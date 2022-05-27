@@ -1,6 +1,0 @@
-new1
-edited in remote
-remote
-local
-Remote2
-lacal2
